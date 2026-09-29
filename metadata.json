@@ -1,0 +1,10 @@
+{
+  "name": "Remix CAFFEINE",
+  "description": "Caffeine is a place in Aligarh , serving specialty coffee, fresh pastries, and comforting daytime meals in a warm, relaxed atmosphere.\"",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
